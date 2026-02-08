@@ -1,0 +1,41 @@
+{
+  "name": "Zephira the Enigmatic",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": { "value": 8 },
+      "dex": { "value": 14 },
+      "con": { "value": 10 },
+      "int": { "value": 18 },
+      "wis": { "value": 16 },
+      "cha": { "value": 12 }
+    },
+    "attributes": {
+      "ac": { "value": 12 },
+      "hp": { "value": 33, "max": 33 },
+      "movement": { "walk": 30 }
+    },
+    "details": {
+      "biography": {
+        "value": "<p>Zephira runs a curiosity shop in the Merchant's Quarter, filled with strange artifacts, mysterious potions, and items of questionable origin. Her age is impossible to determine, and her violet eyes seem to see more than they should. She speaks in riddles and always knows more than she lets on.</p><p><strong>Personality:</strong> Cryptic, amused by mortal struggles, but ultimately helpful.</p><p><strong>Ideal:</strong> Knowledge - Understanding the mysteries of the world is the highest pursuit.</p><p><strong>Bond:</strong> She is searching for a specific artifact that was stolen from her long ago.</p><p><strong>Flaw:</strong> She never gives a straight answer when a riddle will do.</p>"
+      },
+      "race": "Half-Elf",
+      "alignment": "Chaotic Neutral",
+      "cr": 2
+    },
+    "traits": {
+      "size": "med",
+      "languages": { "value": ["common", "elvish", "draconic", "celestial"] }
+    }
+  },
+  "prototypeToken": {
+    "name": "Zephira",
+    "displayName": 30,
+    "actorLink": true,
+    "disposition": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "flags": {}
+}

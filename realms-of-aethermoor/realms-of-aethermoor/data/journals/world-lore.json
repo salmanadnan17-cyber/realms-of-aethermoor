@@ -1,0 +1,47 @@
+{
+  "name": "Welcome to the Realms of Aethermoor",
+  "pages": [
+    {
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>The Realms of Aethermoor</h1><p>Welcome, brave adventurer, to the Realms of Aethermoor, a land shaped by ancient magic and the remnants of a civilization that reached too far into the arcane.</p><h2>The Cataclysm</h2><p>Five hundred years ago, the Arcane Empire sought to harness the raw power of the Aether, the mystical energy that flows between the planes. Their hubris led to the Cataclysm, a magical explosion that shattered the empire and transformed the landscape forever. Where once stood gleaming spires and grand academies, now lie ruins infused with wild magic and haunted by echoes of the past.</p><h2>The Current Age</h2><p>From the ashes of the old empire, new kingdoms have risen. The land is dotted with city-states, each vying for power and seeking to reclaim or avoid the dangerous magical knowledge of the ancients. Adventurers, treasure hunters, and scholars brave the ruins, seeking fortune, fame, or forbidden lore.</p><h2>The City of Aethermoor</h2><p>The largest settlement shares the name of the realm itself. Built on the foundations of the ancient capital, the city of Aethermoor is a melting pot of cultures, races, and ambitions. Here, the City Watch struggles to maintain order while merchant guilds grow wealthy, thieves operate in the shadows, and mages study the mysteries of the Aether in their towers.</p><p>The city is divided into several districts: the Merchant's Quarter, the Temple District, the Dock Ward, the Noble's Heights, and the dangerous Undercity, where the ruins of the old empire still lie beneath the streets.</p>"
+      },
+      "sort": 0
+    },
+    {
+      "name": "Major Factions",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>Major Factions</h1><h2>The Silver Circle</h2><p>An organization of mages dedicated to understanding and controlling the Aether safely. They seek to prevent another Cataclysm while advancing magical knowledge. They operate the Celestial Academy in the Noble's Heights.</p><h2>The Reclaimers</h2><p>A guild of adventurers and treasure hunters who explore the dangerous ruins throughout the realm. They maintain a guildhall in the Merchant's Quarter and are always looking for capable members.</p><h2>The Crimson Veil</h2><p>A mysterious thieves' guild that operates from the shadows. They control much of the black market and have eyes and ears throughout the city. Their leadership is unknown.</p><h2>The Iron Covenant</h2><p>A military order sworn to protect the realm from magical threats and aberrations that emerged after the Cataclysm. They maintain fortresses at strategic locations and answer to the Council of Lords.</p><h2>The Council of Lords</h2><p>The governing body of the city of Aethermoor, composed of representatives from noble houses, merchant guilds, and religious orders. They maintain a fragile peace through political maneuvering and compromise.</p>"
+      },
+      "sort": 1
+    },
+    {
+      "name": "Adventure Hooks",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>Adventure Hooks</h1><h2>The Missing Patrol</h2><p>Captain Blackwood seeks adventurers to investigate the disappearance of a City Watch patrol in the Undercity. They were investigating reports of strange lights and sounds near an old sealed vault.</p><h2>Zephira's Request</h2><p>The mysterious shopkeeper Zephira seeks brave souls to retrieve a specific artifact from the Ruins of Thornhaven, a day's journey to the north. She offers generous payment but won't explain why she needs it.</p><h2>The Aether Storms</h2><p>Wild magic storms have been increasing in frequency near the old imperial academy ruins. The Silver Circle wants someone to investigate before the instability spreads to populated areas.</p><h2>Thieves in the Night</h2><p>Someone has been stealing magical artifacts from various locations throughout the city. The Reclaimers guild wants to find the thief before the Crimson Veil does.</p><h2>The Whispering Caves</h2><p>Miners have broken through into an ancient underground chamber. Now they report hearing voices and seeing shadows. They've abandoned the mine, and the owners need someone to investigate.</p>"
+      },
+      "sort": 2
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {}
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Moonblade Dagger",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>This elegant dagger has a blade forged from silvered steel that seems to shimmer with moonlight. The hilt is wrapped in white leather, and a small moonstone is set in the pommel.</p><p><strong>Properties:</strong> This dagger is a +1 magic weapon. When you hit an undead creature with this weapon, it deals an additional 1d4 radiant damage. The blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You can use a bonus action to toggle this light on or off.</p><p><strong>Attunement:</strong> Requires attunement</p>"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "rare",
+    "identified": true,
+    "attunement": 1,
+    "weaponType": "simpleM",
+    "properties": {
+      "fin": true,
+      "lgt": true,
+      "thr": true,
+      "mgc": true
+    },
+    "damage": {
+      "parts": [
+        ["1d4 + 1 + @mod", "piercing"],
+        ["1d4", "radiant"]
+      ]
+    },
+    "range": {
+      "value": 20,
+      "long": 60,
+      "units": "ft"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "flags": {}
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Aethermoor - Central Plaza",
+  "navigation": true,
+  "navOrder": 0,
+  "active": true,
+  "img": "assets/maps/central-plaza.jpg",
+  "width": 3000,
+  "height": 2000,
+  "padding": 0.25,
+  "initial": {
+    "x": 1500,
+    "y": 1000,
+    "scale": 1
+  },
+  "backgroundColor": "#333333",
+  "gridType": 1,
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "entryId": "aethermoor-welcome",
+      "x": 1500,
+      "y": 1000,
+      "icon": "icons/svg/book.svg",
+      "iconSize": 40,
+      "text": "Welcome to Aethermoor",
+      "fontSize": 32,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": []
+}

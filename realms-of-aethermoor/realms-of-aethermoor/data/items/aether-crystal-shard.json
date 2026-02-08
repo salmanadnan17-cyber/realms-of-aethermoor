@@ -1,0 +1,21 @@
+{
+  "name": "Aether Crystal Shard",
+  "type": "loot",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>This small, translucent crystal pulses with a soft blue light. It feels warm to the touch and seems to hum with barely contained energy. Fragments of these crystals are found throughout the Realms of Aethermoor, remnants of the ancient magical catastrophe that shaped the land.</p><p><strong>Properties:</strong> The crystal can be used as a material component for spells that require a focus worth at least 50gp. Additionally, when held during a short rest, the bearer regains an additional 1d4 hit points.</p><p><strong>Value:</strong> 75gp</p>"
+    },
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 75,
+      "denomination": "gp"
+    },
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "folder": null,
+  "sort": 0,
+  "flags": {}
+}

@@ -1,0 +1,32 @@
+{
+  "id": "realms-of-aethermoor",
+  "title": "Realms of Aethermoor",
+  "description": "A complete D&D 5th Edition campaign world featuring the mysterious Realms of Aethermoor, where ancient magic and forgotten empires shape the fate of adventurers.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "Campaign Creator",
+      "email": "worldbuilder@example.com"
+    }
+  ],
+  "system": "dnd5e",
+  "systemVersion": "3.0.0",
+  "coreVersion": "12.331",
+  "resetKeys": false,
+  "safeMode": false,
+  "background": "assets/backgrounds/world-splash.jpg",
+  "nextSession": null,
+  "manifest": "https://raw.githubusercontent.com/YOUR-USERNAME/realms-of-aethermoor/main/world.json",
+  "download": "https://github.com/YOUR-USERNAME/realms-of-aethermoor/archive/refs/heads/main.zip",
+  "media": [
+    {
+      "type": "cover",
+      "url": "assets/backgrounds/world-splash.jpg"
+    }
+  ]
+}

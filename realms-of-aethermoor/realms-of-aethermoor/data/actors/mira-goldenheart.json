@@ -1,0 +1,41 @@
+{
+  "name": "Mira Goldenheart",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": { "value": 10 },
+      "dex": { "value": 12 },
+      "con": { "value": 13 },
+      "int": { "value": 14 },
+      "wis": { "value": 15 },
+      "cha": { "value": 16 }
+    },
+    "attributes": {
+      "ac": { "value": 11 },
+      "hp": { "value": 22, "max": 22 },
+      "movement": { "walk": 30 }
+    },
+    "details": {
+      "biography": {
+        "value": "<p>Mira Goldenheart is the warm and welcoming proprietor of The Silver Flagon, the most popular inn in the city of Aethermoor. With her golden hair and genuine smile, she has a gift for making travelers feel at home. She knows everyone's business and is always willing to share rumors and information with those who earn her trust.</p><p><strong>Personality:</strong> Friendly, observant, and protective of her establishment.</p><p><strong>Ideal:</strong> Community - A good inn is the heart of any town.</p><p><strong>Bond:</strong> The Silver Flagon has been in her family for three generations.</p><p><strong>Flaw:</strong> She's a terrible gossip and can't keep a secret.</p>"
+      },
+      "race": "Human",
+      "alignment": "Neutral Good",
+      "cr": 1
+    },
+    "traits": {
+      "size": "med",
+      "languages": { "value": ["common", "dwarvish"] }
+    }
+  },
+  "prototypeToken": {
+    "name": "Mira Goldenheart",
+    "displayName": 30,
+    "actorLink": true,
+    "disposition": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "flags": {}
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Captain Theron Blackwood",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": { "value": 16 },
+      "dex": { "value": 14 },
+      "con": { "value": 15 },
+      "int": { "value": 12 },
+      "wis": { "value": 13 },
+      "cha": { "value": 14 }
+    },
+    "attributes": {
+      "ac": { "value": 18 },
+      "hp": { "value": 58, "max": 58 },
+      "movement": { "walk": 30 }
+    },
+    "details": {
+      "biography": {
+        "value": "<p>Captain Theron Blackwood commands the City Watch of Aethermoor with an iron will and unwavering dedication to justice. A veteran of numerous conflicts, his scarred face and graying temples speak to years of service. Despite his stern demeanor, he has a soft spot for those who genuinely try to do good.</p><p><strong>Personality:</strong> Stern but fair, loyal to his city above all else.</p><p><strong>Ideal:</strong> Order - Without law, civilization crumbles.</p><p><strong>Bond:</strong> He lost his family to bandits years ago and will do anything to prevent others from suffering the same fate.</p><p><strong>Flaw:</strong> He trusts the law more than people.</p>"
+      },
+      "race": "Human",
+      "alignment": "Lawful Good",
+      "cr": 3
+    },
+    "traits": {
+      "size": "med",
+      "languages": { "value": ["common", "elvish"] }
+    }
+  },
+  "prototypeToken": {
+    "name": "Captain Blackwood",
+    "displayName": 30,
+    "actorLink": true,
+    "disposition": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "flags": {}
+}

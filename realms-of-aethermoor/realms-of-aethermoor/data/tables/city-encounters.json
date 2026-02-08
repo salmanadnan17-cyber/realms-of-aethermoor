@@ -1,0 +1,61 @@
+{
+  "name": "City Streets - Random Encounters",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [1, 3],
+      "text": "A street performer juggling flaming torches draws a small crowd",
+      "weight": 1
+    },
+    {
+      "range": [4, 6],
+      "text": "Two City Watch members patrol the street, nodding to passersby",
+      "weight": 1
+    },
+    {
+      "range": [7, 8],
+      "text": "A merchant's cart has overturned, spilling goods across the street",
+      "weight": 1
+    },
+    {
+      "range": [9, 10],
+      "text": "A pickpocket attempts to steal from a party member (Perception DC 14 to notice)",
+      "weight": 1
+    },
+    {
+      "range": [11, 12],
+      "text": "An elderly woman asks for help finding her lost cat",
+      "weight": 1
+    },
+    {
+      "range": [13, 14],
+      "text": "A street preacher warns about the dangers of magic and the Aether",
+      "weight": 1
+    },
+    {
+      "range": [15, 16],
+      "text": "A mysterious hooded figure watches the party from an alley",
+      "weight": 1
+    },
+    {
+      "range": [17, 18],
+      "text": "A group of drunk sailors start a brawl outside a tavern",
+      "weight": 1
+    },
+    {
+      "range": [19, 19],
+      "text": "A wild magic surge causes nearby objects to glow for 1 minute",
+      "weight": 1
+    },
+    {
+      "range": [20, 20],
+      "text": "A member of the Reclaimers guild recognizes the party and offers information about a job",
+      "weight": 1
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {}
+}
