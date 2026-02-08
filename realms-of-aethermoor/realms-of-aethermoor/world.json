@@ -21,8 +21,8 @@
   "safeMode": false,
   "background": "assets/backgrounds/world-splash.jpg",
   "nextSession": null,
-  "manifest": "https://raw.githubusercontent.com/YOUR-USERNAME/realms-of-aethermoor/main/world.json",
-  "download": "https://github.com/YOUR-USERNAME/realms-of-aethermoor/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/salmanadnan17-cyber/realms-of-aethermoor/main/world.json",
+  "download": "https://github.com/salmanadnan17-cyber/realms-of-aethermoor/archive/refs/heads/main.zip",
   "media": [
     {
       "type": "cover",
